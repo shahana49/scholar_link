@@ -149,7 +149,7 @@
             <hr>
             <div class="d-flex justify-content-between pt-lg-3  footer-bottom-cpy">
                 <div class="copy-right">
-                    <p>© 2024 . All rights reserved | Design by <a href="#"> Team - I </a>
+                    <p>© 2024 . All rights reserved | Design by <a href="#"> Shahana P </a>
 
                     </p>
                 </div>
